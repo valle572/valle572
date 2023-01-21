@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ruben Valle Ramirez</h1>
+<h1 align="center">Hi 👋 I'm Ruben</h1>
 <h3 align="center">A Front End Developer from Arizona, USA</h3>
 
 - 🌱 I’m currently learning **ReactJS, Git Version Control**
